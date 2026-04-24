@@ -1,0 +1,21 @@
+{
+  "name": "NAIM Studio (Test)",
+  "short_name": "NAIM Test",
+  "display": "fullscreen",
+  "background_color": "#07070f",
+  "theme_color": "#1a1030",
+  "start_url": "./NAIM_Studio_v4.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
